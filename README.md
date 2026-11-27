@@ -1,6 +1,6 @@
 # ⚔️ AlgoArena — Strategy Showdown Simulator
 
-![](https://raw.githubusercontent.com/michaelsboost/AlgoArena/main/imgs/screenshot.jpeg)
+![](imgs/promo.png)
 
 ## 🌟 Overview
 **AlgoArena** is an experimental **trading battle simulator**.  
